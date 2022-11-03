@@ -6,7 +6,7 @@ The repository has a notes from the MS Learn series for the certification and CL
 
 # Certification
 
-![image](https://user-images.githubusercontent.com/12272451/199806122-f2f5ac57-c523-4111-8bd1-58c23bdbe28d.png)
+![image](https://user-images.githubusercontent.com/12272451/199810788-ef780c1c-3446-491a-aa9c-73ad943651af.png)
 
 # References
 
