@@ -28,7 +28,7 @@ The repository has a notes from the MS Learn series for the certification and CL
 - [Instrument solutions to support monitoring and logging](https://learn.microsoft.com/en-us/training/paths/az-204-instrument-solutions-support-monitoring-logging/)
 - [Integrate caching and content delivery within solutions](https://learn.microsoft.com/en-us/training/paths/az-204-integrate-caching-content-delivery-within-solutions/)
 
-# Microsoft Docs
+# Skills the exam measures
 
 ## Skills measured
 - Develop Azure compute solutions (25–30%)
@@ -42,7 +42,7 @@ The repository has a notes from the MS Learn series for the certification and CL
 ### Develop Azure compute solutions (25-30%)
 
 ### Create Azure App Service Web Apps
-- Create an Azure App Service Web App
+-  Create an Azure App Service Web App
 - Enable diagnostics logging
 - Deploy code to a web app
 - Configure web app settings including SSL, API settings, and connection strings
@@ -54,3 +54,60 @@ system metrics
 - Implement input and output bindings for a function
 - Implement function triggers by using data operations, timers, and webhooks
 - Implement Azure Durable Functions
+
+## Develop for Azure storage (15-20%)
+
+### Develop solutions that use Cosmos DB storage
+-  Select the appropriate API and SDK for a solution
+-  Implement partitioning schemes and partition keys
+-  Perform operations on data and Cosmos DB containers
+-  Set the appropriate consistency level for operations
+-  Manage change feed notifications
+
+### Develop solutions that use blob storage
+-  Move items in Blob storage between storage accounts or containers
+-  Set and retrieve properties and metadata
+-  Perform operations on data by using the appropriate SDK
+-  Implement storage policies, data archiving, and retention
+
+## Implement Azure security (20-25%)
+
+### Implement user authentication and authorization
+-  Authenticate and authorize users by using the Microsoft Identity platform
+-  Authenticate and authorize users and apps by using Azure Active Directory
+-  Create and implement shared access signatures
+-  Implement solutions that interact with Microsoft Graph
+
+### Implement secure cloud solutions
+-  Secure app configuration data by using App Configuration or Azure Key Vault
+-  Develop code that uses keys, secrets, and certificates stored in Azure Key Vault
+-  Implement Managed Identities for Azure resources
+
+## Monitor, troubleshoot, and optimize Azure solutions (15-20%)
+
+### Implement caching for solutions
+-  Configure cache and expiration policies for Azure Cache for Redis
+-  Implement secure and optimized application cache patterns including data sizing, connections,
+encryption, and expiration
+
+### Troubleshoot solutions by using metrics and log data
+-  Configure an app or service to use Application Insights
+-  Review and analyze metrics and log data
+-  Implement Application Insights web tests and alerts
+
+## Connect to and consume Azure services and third-party services (15-
+20%)
+
+### Implement API Management
+-  Create an APIM instance
+-  Create and document APIs
+-  Configure authentication for APIs
+-  Define policies for APIs
+
+### Develop event-based solutions
+-  Implement solutions that use Azure Event Grid
+-  Implement solutions that use Azure Event Hub
+
+### Develop message-based solutions
+-  Implement solutions that use Azure Service Bus
+-  Implement solutions that use Azure Queue Storage queues
