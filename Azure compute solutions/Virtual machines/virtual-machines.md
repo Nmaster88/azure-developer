@@ -15,3 +15,24 @@ Virtual machines have the following availability options:
 In regards to Availability sets we should take in account:
 
 ![image](https://user-images.githubusercontent.com/12272451/200030536-1fece38a-23f8-459c-9bcd-990a61aef4e7.png)
+
+# Create Virtual Machine
+
+**Az cli**
+```
+az vm create --resource-group 'MyResourceGroup' --name 'MyVM' --image 'OpenLogic:CentOS:7.5:7.5.20180815' --admin-username 'username' --admin-password 'Password123!' --location 'frn00006'
+```
+
+
+**Powershell**
+```
+New-AzVm `
+    -ResourceGroupName 'myResourceGroup' `
+    -Name 'myVM' `
+    -Location 'East US' `
+    -VirtualNetworkName 'myVnet' `
+    -SubnetName 'mySubnet' `
+    -SecurityGroupName 'myNetworkSecurityGroup' `
+    -PublicIpAddressName 'myPublicIpAddress' `
+    -OpenPorts 80,3389
+ ```
