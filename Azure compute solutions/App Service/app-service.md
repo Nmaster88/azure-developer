@@ -28,7 +28,34 @@ Pay based on an **App Service Plan**:
 
 Can also run docker single or multi-containers
 
+Available runtimes:
+- .NET
+- .NET Core
+- Java
+- Ruby
+- Node.js
+- PHP
+- Python
+
+## App Service Environment
+
+App Service feature that provides **fully isolated and decicated environment** for securely running App Service apps at high scale.
+
+## App Service Plans
+
+It defines how we pay and what resources are available
+Pricing tiers:
+![image](https://user-images.githubusercontent.com/12272451/200122288-597d6c74-7a3d-4ff4-847c-3aa230da2b94.png)
+![image](https://user-images.githubusercontent.com/12272451/200122296-7fc339e6-f801-48dc-b01c-e2c91e8cafad.png)
+![image](https://user-images.githubusercontent.com/12272451/200122306-b3768959-ea41-4e5d-b112-38d4b1bad55e.png)
+
+
+
+
+
+
 # App Service CheatSheet
 
-![Screenshot_20221104-190648_YouTube](https://user-images.githubusercontent.com/12272451/200121700-a4b344ed-83d6-4419-838c-82343dfa3952.jpg)
+![image](https://user-images.githubusercontent.com/12272451/200122323-a4e83caa-546f-4da0-a6e8-e87b5a5818f9.png)
+
 ![image](https://user-images.githubusercontent.com/12272451/200121738-86651aa4-78ba-4e35-96c6-fe37322a606b.png)
