@@ -42,7 +42,7 @@ The repository has a notes from the MS Learn series for the certification and CL
 ### Develop Azure compute solutions (25-30%)
 
 ### Create Azure App Service Web Apps
--  Create an Azure App Service Web App
+- Create an Azure App Service Web App
 - Enable diagnostics logging
 - Deploy code to a web app
 - Configure web app settings including SSL, API settings, and connection strings
